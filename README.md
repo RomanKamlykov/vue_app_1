@@ -1,5 +1,4 @@
 # vue_app_1
-
 You can see the working application [here](https://romankamlykov.github.io/vue_app_1/).
 
 ## Summary
