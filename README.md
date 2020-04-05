@@ -4,6 +4,7 @@ You can see the working application [here](https://romankamlykov.github.io/vue_a
 
 ## Summary
 The app developed with Vue CLI (@vue/cli v6.13.4).
+
 Dependencies:
 - normalize.css
 Dev dependencies:
