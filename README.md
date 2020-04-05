@@ -7,6 +7,7 @@ The app developed with Vue CLI (@vue/cli v6.13.4).
 
 Dependencies:
 - normalize.css
+
 Dev dependencies:
 - sass
 - sass-loader
