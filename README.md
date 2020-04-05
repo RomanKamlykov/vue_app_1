@@ -27,11 +27,11 @@ The app has responsive design with the following breakpoints:
 
 ## Available Scripts
 In the project directory, you can run:
-### Project setup
+### Project setup:
 ```
 yarn install
 ```
-#### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development:
 ```
 yarn serve
 ```
