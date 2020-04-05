@@ -25,12 +25,13 @@ The app has responsive design with the following breakpoints:
 - tablet (min-width: 576px and max-width: 1199px)
 - phone (max-width: 575px)
 
-## Project setup
+## Available Scripts
+In the project directory, you can run:
+### Project setup
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 yarn serve
 ```
